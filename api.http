@@ -1,0 +1,5 @@
+### Retorna todas as notas
+GET http://localhost:3000/notes
+
+### Retorna a nota com id = 1
+GET http://localhost:3000/notes/1
